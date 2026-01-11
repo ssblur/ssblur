@@ -1,4 +1,4 @@
-# Pat Hallbick
+# Juni Hallbick
 *they / them* - née Patrick Emery
 
 A data scientist and software engineer, experienced with web design and versed in systems development. 
